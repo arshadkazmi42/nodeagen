@@ -30,8 +30,8 @@ $ nodeagen dummy
 
 ## Flags
 
-- `api` 
-  - Generates express api boilerplate
+- `npm` 
+  - Generates npm package boilerplate
 
 - `help`
   - List all flags with discription
