@@ -1,0 +1,49 @@
+{
+  "name": "nodeagen",
+  "version": "1.0.0",
+  "description": "Node application boilerplate generator cli",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/nodeagen.git"
+  },
+  "bin": {
+    "node-generate": "index.js",
+    "nodeagen": "index.js"
+  },
+  "keywords": [
+    "node",
+    "node",
+    "generator",
+    "node",
+    "cli",
+    "cli",
+    "nodegen",
+    "nodeagen",
+    "boilerplate",
+    "npm"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/nodeagen/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/nodeagen#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "lodash": "^4.17.11",
+    "log-symbols": "^3.0.0",
+    "ora": "^3.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
