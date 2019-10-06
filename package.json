@@ -1,8 +1,13 @@
 {
   "name": "nodeagen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node application boilerplate generator cli",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/",
+    "generators/"
+  ],
   "scripts": {
     "lint": "eslint --ignore-path .gitignore .",
     "pretest": "eslint --ignore-path .gitignore .",
