@@ -1,6 +1,6 @@
 {
   "name": "nodeagen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node application boilerplate generator cli",
   "main": "index.js",
   "files": [
