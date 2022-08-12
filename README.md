@@ -1,5 +1,14 @@
 # nodeagen
 
+[![Build](https://github.com/maaszaxxs/nodeagen/actions/workflows/nodejs.yml/badge.svg)](https://github.com/maaszaxxs/nodeagen/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/nodeagen.svg)](https://www.npmjs.com/package/nodeagen)
+[![NPM Downloads](https://img.shields.io/npm/dt/nodeagen.svg)](https://www.npmjs.com/package/nodeagen)
+[![Github Repo Size](https://img.shields.io/github/repo-size/maaszaxxs/nodeagen.svg)](https://github.com/maaszaxxs/nodeagen)
+[![LICENSE](https://img.shields.io/npm/l/nodeagen.svg)](https://github.com/maaszaxxs/nodeagen/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/maaszaxxs/nodeagen.svg)](https://github.com/maaszaxxs/nodeagen/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/maaszaxxs/nodeagen.svg)](https://github.com/maaszaxxs/nodeagen/commits/master)
+
+
 [![Build](https://github.com/arshadkazmi42/nodeagen/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/nodeagen/actions/workflows/nodejs.yml)
 
 Node boilerplate generator cli
