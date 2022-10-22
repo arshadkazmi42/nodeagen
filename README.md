@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/nodeagen.svg)](https://github.com/arshadkazmi42/nodeagen/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/nodeagen.svg)](https://github.com/arshadkazmi42/nodeagen/commits/master)
 
-
-[![Build](https://github.com/arshadkazmi42/nodeagen/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/nodeagen/actions/workflows/nodejs.yml)
-
 Node boilerplate generator cli
 
 ## Install
